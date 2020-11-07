@@ -1,0 +1,3560 @@
+<?xml version="1.0"?>
+<University xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>Mariusz Polak</Author>
+  <Students>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Nowak1</Last_Name>
+      <Email xmlns="Student">1@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">459</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Nowak1</Last_Name>
+      <Email xmlns="Student">1@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">459</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 4 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Nowak1</Last_Name>
+      <Email xmlns="Student">1@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">459</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka doktoranckie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kaja</First_Name>
+      <Last_Name xmlns="Student">Jankowski29</Last_Name>
+      <Email xmlns="Student">29@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4816</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Justyna</First_Name>
+      <Last_Name xmlns="Student">Kowalski30</Last_Name>
+      <Email xmlns="Student">30@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4749</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Justyna</First_Name>
+      <Last_Name xmlns="Student">Kowalski30</Last_Name>
+      <Email xmlns="Student">30@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4749</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak31</Last_Name>
+      <Email xmlns="Student">31@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4432</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak31</Last_Name>
+      <Email xmlns="Student">31@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4432</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz32</Last_Name>
+      <Email xmlns="Student">32@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4757</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marta</First_Name>
+      <Last_Name xmlns="Student">Maciejewski33</Last_Name>
+      <Email xmlns="Student">33@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4655</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Szymon</First_Name>
+      <Last_Name xmlns="Student">Jankowski34</Last_Name>
+      <Email xmlns="Student">34@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4398</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Joanna</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz37</Last_Name>
+      <Email xmlns="Student">37@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4799</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Joanna</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz37</Last_Name>
+      <Email xmlns="Student">37@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4799</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Irena</First_Name>
+      <Last_Name xmlns="Student">Maciejewski38</Last_Name>
+      <Email xmlns="Student">38@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4626</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Irena</First_Name>
+      <Last_Name xmlns="Student">Maciejewski38</Last_Name>
+      <Email xmlns="Student">38@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4626</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Jankowski39</Last_Name>
+      <Email xmlns="Student">39@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4446</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Kowalski40</Last_Name>
+      <Email xmlns="Student">40@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4396</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Kowalski40</Last_Name>
+      <Email xmlns="Student">40@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4396</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Nowak41</Last_Name>
+      <Email xmlns="Student">41@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4902</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Nowak41</Last_Name>
+      <Email xmlns="Student">41@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4902</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz42</Last_Name>
+      <Email xmlns="Student">42@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4434</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz42</Last_Name>
+      <Email xmlns="Student">42@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4434</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne 6 sem." xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski43</Last_Name>
+      <Email xmlns="Student">43@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4517</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Grzegorz</First_Name>
+      <Last_Name xmlns="Student">Jankowski44</Last_Name>
+      <Email xmlns="Student">44@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4705</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Kowalski45</Last_Name>
+      <Email xmlns="Student">45@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4661</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak46</Last_Name>
+      <Email xmlns="Student">46@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4842</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak46</Last_Name>
+      <Email xmlns="Student">46@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4842</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne 6 sem." xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz47</Last_Name>
+      <Email xmlns="Student">47@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4709</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Iga</First_Name>
+      <Last_Name xmlns="Student">Maciejewski48</Last_Name>
+      <Email xmlns="Student">48@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4792</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Jankowski49</Last_Name>
+      <Email xmlns="Student">49@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4789</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Jankowski49</Last_Name>
+      <Email xmlns="Student">49@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4789</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Maria</First_Name>
+      <Last_Name xmlns="Student">Kowalski50</Last_Name>
+      <Email xmlns="Student">50@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4708</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Artur</First_Name>
+      <Last_Name xmlns="Student">Nowak51</Last_Name>
+      <Email xmlns="Student">51@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4404</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sabina</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz52</Last_Name>
+      <Email xmlns="Student">52@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4513</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sabina</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz52</Last_Name>
+      <Email xmlns="Student">52@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4513</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Łukasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski53</Last_Name>
+      <Email xmlns="Student">53@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4442</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marcin</First_Name>
+      <Last_Name xmlns="Student">Jankowski54</Last_Name>
+      <Email xmlns="Student">54@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4732</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Rafał</First_Name>
+      <Last_Name xmlns="Student">Kowalski55</Last_Name>
+      <Email xmlns="Student">55@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4506</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak56</Last_Name>
+      <Email xmlns="Student">56@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4649</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak56</Last_Name>
+      <Email xmlns="Student">56@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4649</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz57</Last_Name>
+      <Email xmlns="Student">57@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4755</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz57</Last_Name>
+      <Email xmlns="Student">57@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4755</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Julia</First_Name>
+      <Last_Name xmlns="Student">Maciejewski58</Last_Name>
+      <Email xmlns="Student">58@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4890</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karol</First_Name>
+      <Last_Name xmlns="Student">Jankowski59</Last_Name>
+      <Email xmlns="Student">59@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4594</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Nowak61</Last_Name>
+      <Email xmlns="Student">61@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4925</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marzena</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz62</Last_Name>
+      <Email xmlns="Student">62@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4748</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Filip</First_Name>
+      <Last_Name xmlns="Student">Maciejewski63</Last_Name>
+      <Email xmlns="Student">63@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4720</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karolina</First_Name>
+      <Last_Name xmlns="Student">Jankowski64</Last_Name>
+      <Email xmlns="Student">64@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4423</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karolina</First_Name>
+      <Last_Name xmlns="Student">Jankowski64</Last_Name>
+      <Email xmlns="Student">64@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4423</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mateusz</First_Name>
+      <Last_Name xmlns="Student">Kowalski65</Last_Name>
+      <Email xmlns="Student">65@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4299</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Magdalena</First_Name>
+      <Last_Name xmlns="Student">Nowak66</Last_Name>
+      <Email xmlns="Student">66@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4629</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Magdalena</First_Name>
+      <Last_Name xmlns="Student">Nowak66</Last_Name>
+      <Email xmlns="Student">66@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4629</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Igor</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz67</Last_Name>
+      <Email xmlns="Student">67@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4889</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bogumiła</First_Name>
+      <Last_Name xmlns="Student">Maciejewski68</Last_Name>
+      <Email xmlns="Student">68@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4831</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Jankowski69</Last_Name>
+      <Email xmlns="Student">69@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4478</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Jankowski69</Last_Name>
+      <Email xmlns="Student">69@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4478</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marta</First_Name>
+      <Last_Name xmlns="Student">Kowalski70</Last_Name>
+      <Email xmlns="Student">70@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4718</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Nowak71</Last_Name>
+      <Email xmlns="Student">71@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4741</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Nowak71</Last_Name>
+      <Email xmlns="Student">71@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4741</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Beata</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz72</Last_Name>
+      <Email xmlns="Student">72@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4444</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Maciejewski73</Last_Name>
+      <Email xmlns="Student">73@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4552</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Gustaw</First_Name>
+      <Last_Name xmlns="Student">Jankowski74</Last_Name>
+      <Email xmlns="Student">74@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4462</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Arkadiusz</First_Name>
+      <Last_Name xmlns="Student">Kowalski75</Last_Name>
+      <Email xmlns="Student">75@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4414</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sonia</First_Name>
+      <Last_Name xmlns="Student">Nowak76</Last_Name>
+      <Email xmlns="Student">76@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4508</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz77</Last_Name>
+      <Email xmlns="Student">77@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4800</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz77</Last_Name>
+      <Email xmlns="Student">77@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4800</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Małgorzata</First_Name>
+      <Last_Name xmlns="Student">Maciejewski78</Last_Name>
+      <Email xmlns="Student">78@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4429</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Małgorzata</First_Name>
+      <Last_Name xmlns="Student">Maciejewski78</Last_Name>
+      <Email xmlns="Student">78@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4429</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kiyomi</First_Name>
+      <Last_Name xmlns="Student">Jankowski79</Last_Name>
+      <Email xmlns="Student">79@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4927</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Konrad</First_Name>
+      <Last_Name xmlns="Student">Kowalski80</Last_Name>
+      <Email xmlns="Student">80@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4502</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Nowak81</Last_Name>
+      <Email xmlns="Student">81@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4744</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Maciej</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz82</Last_Name>
+      <Email xmlns="Student">82@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4477</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski83</Last_Name>
+      <Email xmlns="Student">83@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4736</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Klaudia</First_Name>
+      <Last_Name xmlns="Student">Jankowski84</Last_Name>
+      <Email xmlns="Student">84@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4849</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Klaudia</First_Name>
+      <Last_Name xmlns="Student">Jankowski84</Last_Name>
+      <Email xmlns="Student">84@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4849</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów uzupełniające magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski85</Last_Name>
+      <Email xmlns="Student">85@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4819</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sebastian</First_Name>
+      <Last_Name xmlns="Student">Nowak86</Last_Name>
+      <Email xmlns="Student">86@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4445</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz87</Last_Name>
+      <Email xmlns="Student">87@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4707</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jagna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski88</Last_Name>
+      <Email xmlns="Student">88@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4764</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Izabela</First_Name>
+      <Last_Name xmlns="Student">Jankowski89</Last_Name>
+      <Email xmlns="Student">89@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4722</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mateusz</First_Name>
+      <Last_Name xmlns="Student">Kowalski90</Last_Name>
+      <Email xmlns="Student">90@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4452</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Daria</First_Name>
+      <Last_Name xmlns="Student">Nowak91</Last_Name>
+      <Email xmlns="Student">91@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4545</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Agnieszka</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz92</Last_Name>
+      <Email xmlns="Student">92@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4771</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Iwona</First_Name>
+      <Last_Name xmlns="Student">Maciejewski93</Last_Name>
+      <Email xmlns="Student">93@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4706</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Jankowski94</Last_Name>
+      <Email xmlns="Student">94@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4772</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Kowalski95</Last_Name>
+      <Email xmlns="Student">95@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">3374</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Kowalski95</Last_Name>
+      <Email xmlns="Student">95@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">3374</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jolanta</First_Name>
+      <Last_Name xmlns="Student">Nowak96</Last_Name>
+      <Email xmlns="Student">96@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4756</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz97</Last_Name>
+      <Email xmlns="Student">97@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4457</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz252</Last_Name>
+      <Email xmlns="Student">252@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4412</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz252</Last_Name>
+      <Email xmlns="Student">252@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4412</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Dariusz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski253</Last_Name>
+      <Email xmlns="Student">253@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4525</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Jankowski254</Last_Name>
+      <Email xmlns="Student">254@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4836</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kamil</First_Name>
+      <Last_Name xmlns="Student">Jankowski254</Last_Name>
+      <Email xmlns="Student">254@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4836</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Łukasz</First_Name>
+      <Last_Name xmlns="Student">Kowalski255</Last_Name>
+      <Email xmlns="Student">255@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4788</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Nowak256</Last_Name>
+      <Email xmlns="Student">256@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4474</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz257</Last_Name>
+      <Email xmlns="Student">257@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4454</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz257</Last_Name>
+      <Email xmlns="Student">257@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4454</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Patryk</First_Name>
+      <Last_Name xmlns="Student">Maciejewski258</Last_Name>
+      <Email xmlns="Student">258@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4443</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Patryk</First_Name>
+      <Last_Name xmlns="Student">Maciejewski258</Last_Name>
+      <Email xmlns="Student">258@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4443</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bhagirath</First_Name>
+      <Last_Name xmlns="Student">Jankowski259</Last_Name>
+      <Email xmlns="Student">259@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4851</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski260</Last_Name>
+      <Email xmlns="Student">260@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4579</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski260</Last_Name>
+      <Email xmlns="Student">260@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4579</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marek</First_Name>
+      <Last_Name xmlns="Student">Nowak261</Last_Name>
+      <Email xmlns="Student">261@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4461</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Przemysław</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz262</Last_Name>
+      <Email xmlns="Student">262@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4747</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marcin</First_Name>
+      <Last_Name xmlns="Student">Maciejewski263</Last_Name>
+      <Email xmlns="Student">263@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4762</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Zuzanna</First_Name>
+      <Last_Name xmlns="Student">Jankowski264</Last_Name>
+      <Email xmlns="Student">264@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4413</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Zarządzanie informacją dzienne (kierunek Zarządzanie)" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Zuzanna</First_Name>
+      <Last_Name xmlns="Student">Jankowski264</Last_Name>
+      <Email xmlns="Student">264@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4413</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski265</Last_Name>
+      <Email xmlns="Student">265@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4490</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Nowak266</Last_Name>
+      <Email xmlns="Student">266@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4554</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Nowak266</Last_Name>
+      <Email xmlns="Student">266@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4554</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Enkh-Amgalan</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz267</Last_Name>
+      <Email xmlns="Student">267@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4340</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Maciejewski268</Last_Name>
+      <Email xmlns="Student">268@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4586</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Jankowski269</Last_Name>
+      <Email xmlns="Student">269@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4798</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Kowalski270</Last_Name>
+      <Email xmlns="Student">270@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4711</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Kowalski270</Last_Name>
+      <Email xmlns="Student">270@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4711</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Kowalski270</Last_Name>
+      <Email xmlns="Student">270@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4711</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sebastian</First_Name>
+      <Last_Name xmlns="Student">Nowak271</Last_Name>
+      <Email xmlns="Student">271@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4056</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz272</Last_Name>
+      <Email xmlns="Student">272@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4549</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz272</Last_Name>
+      <Email xmlns="Student">272@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4549</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksandra</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz272</Last_Name>
+      <Email xmlns="Student">272@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4549</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Maciejewski273</Last_Name>
+      <Email xmlns="Student">273@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4618</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Maciejewski273</Last_Name>
+      <Email xmlns="Student">273@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4618</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Jankowski274</Last_Name>
+      <Email xmlns="Student">274@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4530</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Jankowski274</Last_Name>
+      <Email xmlns="Student">274@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4530</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Andrzej</First_Name>
+      <Last_Name xmlns="Student">Kowalski275</Last_Name>
+      <Email xmlns="Student">275@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4607</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Andrzej</First_Name>
+      <Last_Name xmlns="Student">Kowalski275</Last_Name>
+      <Email xmlns="Student">275@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4607</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Nowak276</Last_Name>
+      <Email xmlns="Student">276@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4459</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Nowak276</Last_Name>
+      <Email xmlns="Student">276@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4459</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Monika</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz277</Last_Name>
+      <Email xmlns="Student">277@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4501</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Maciejewski278</Last_Name>
+      <Email xmlns="Student">278@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4858</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Jankowski279</Last_Name>
+      <Email xmlns="Student">279@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4578</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Kowalski280</Last_Name>
+      <Email xmlns="Student">280@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4555</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Agata</First_Name>
+      <Last_Name xmlns="Student">Nowak281</Last_Name>
+      <Email xmlns="Student">281@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4589</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Agata</First_Name>
+      <Last_Name xmlns="Student">Nowak281</Last_Name>
+      <Email xmlns="Student">281@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4589</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Agata</First_Name>
+      <Last_Name xmlns="Student">Nowak281</Last_Name>
+      <Email xmlns="Student">281@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4589</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Matthew</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz282</Last_Name>
+      <Email xmlns="Student">282@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4945</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Maciejewski283</Last_Name>
+      <Email xmlns="Student">283@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4556</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Maciejewski283</Last_Name>
+      <Email xmlns="Student">283@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4556</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie uzupełniające zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Grzegorz</First_Name>
+      <Last_Name xmlns="Student">Jankowski284</Last_Name>
+      <Email xmlns="Student">284@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4504</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Grzegorz</First_Name>
+      <Last_Name xmlns="Student">Jankowski284</Last_Name>
+      <Email xmlns="Student">284@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4504</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sebastian</First_Name>
+      <Last_Name xmlns="Student">Kowalski285</Last_Name>
+      <Email xmlns="Student">285@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4505</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sebastian</First_Name>
+      <Last_Name xmlns="Student">Kowalski285</Last_Name>
+      <Email xmlns="Student">285@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4505</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Filip</First_Name>
+      <Last_Name xmlns="Student">Nowak286</Last_Name>
+      <Email xmlns="Student">286@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4105</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Filip</First_Name>
+      <Last_Name xmlns="Student">Nowak286</Last_Name>
+      <Email xmlns="Student">286@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4105</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Filip</First_Name>
+      <Last_Name xmlns="Student">Nowak286</Last_Name>
+      <Email xmlns="Student">286@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4105</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka jednolite magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz287</Last_Name>
+      <Email xmlns="Student">287@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4487</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Artur</First_Name>
+      <Last_Name xmlns="Student">Maciejewski288</Last_Name>
+      <Email xmlns="Student">288@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4498</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Artur</First_Name>
+      <Last_Name xmlns="Student">Maciejewski288</Last_Name>
+      <Email xmlns="Student">288@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4498</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Jankowski289</Last_Name>
+      <Email xmlns="Student">289@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4471</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Jankowski289</Last_Name>
+      <Email xmlns="Student">289@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4471</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Jankowski289</Last_Name>
+      <Email xmlns="Student">289@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4471</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Małgorzata</First_Name>
+      <Last_Name xmlns="Student">Kowalski290</Last_Name>
+      <Email xmlns="Student">290@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4855</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Arkadiusz</First_Name>
+      <Last_Name xmlns="Student">Nowak291</Last_Name>
+      <Email xmlns="Student">291@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4752</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz292</Last_Name>
+      <Email xmlns="Student">292@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4770</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Maciejewski293</Last_Name>
+      <Email xmlns="Student">293@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4476</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Jankowski294</Last_Name>
+      <Email xmlns="Student">294@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4724</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Jankowski294</Last_Name>
+      <Email xmlns="Student">294@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4724</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Kowalski295</Last_Name>
+      <Email xmlns="Student">295@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4754</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak296</Last_Name>
+      <Email xmlns="Student">296@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4769</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak296</Last_Name>
+      <Email xmlns="Student">296@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4769</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Maciej</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz297</Last_Name>
+      <Email xmlns="Student">297@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4499</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Maciejewski298</Last_Name>
+      <Email xmlns="Student">298@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4733</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Maciejewski298</Last_Name>
+      <Email xmlns="Student">298@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4733</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kasper</First_Name>
+      <Last_Name xmlns="Student">Jankowski299</Last_Name>
+      <Email xmlns="Student">299@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4584</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kasper</First_Name>
+      <Last_Name xmlns="Student">Jankowski299</Last_Name>
+      <Email xmlns="Student">299@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4584</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Kowalski300</Last_Name>
+      <Email xmlns="Student">300@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4514</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Kowalski300</Last_Name>
+      <Email xmlns="Student">300@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4514</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie uzupełniające zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak301</Last_Name>
+      <Email xmlns="Student">301@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4448</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz302</Last_Name>
+      <Email xmlns="Student">302@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4664</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski303</Last_Name>
+      <Email xmlns="Student">303@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4935</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski303</Last_Name>
+      <Email xmlns="Student">303@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4935</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Konrad</First_Name>
+      <Last_Name xmlns="Student">Jankowski304</Last_Name>
+      <Email xmlns="Student">304@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4485</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Kowalski305</Last_Name>
+      <Email xmlns="Student">305@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4456</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Kowalski305</Last_Name>
+      <Email xmlns="Student">305@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4456</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak306</Last_Name>
+      <Email xmlns="Student">306@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4107</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak306</Last_Name>
+      <Email xmlns="Student">306@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4107</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak306</Last_Name>
+      <Email xmlns="Student">306@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4107</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka jednolite magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak306</Last_Name>
+      <Email xmlns="Student">306@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4107</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka jednolite magisterskie po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Radosław</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz307</Last_Name>
+      <Email xmlns="Student">307@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4482</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Maciejewski308</Last_Name>
+      <Email xmlns="Student">308@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4817</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Maciejewski308</Last_Name>
+      <Email xmlns="Student">308@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4817</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Jankowski309</Last_Name>
+      <Email xmlns="Student">309@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4765</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Lech</First_Name>
+      <Last_Name xmlns="Student">Kowalski310</Last_Name>
+      <Email xmlns="Student">310@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4387</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Lech</First_Name>
+      <Last_Name xmlns="Student">Kowalski310</Last_Name>
+      <Email xmlns="Student">310@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4387</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Błażej</First_Name>
+      <Last_Name xmlns="Student">Nowak311</Last_Name>
+      <Email xmlns="Student">311@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4509</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Błażej</First_Name>
+      <Last_Name xmlns="Student">Nowak311</Last_Name>
+      <Email xmlns="Student">311@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4509</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie uzupełniające zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karol</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz312</Last_Name>
+      <Email xmlns="Student">312@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4609</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Maciejewski313</Last_Name>
+      <Email xmlns="Student">313@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4481</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Maciejewski313</Last_Name>
+      <Email xmlns="Student">313@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4481</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Jankowski314</Last_Name>
+      <Email xmlns="Student">314@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4512</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Wojciech</First_Name>
+      <Last_Name xmlns="Student">Jankowski314</Last_Name>
+      <Email xmlns="Student">314@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4512</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Maciej</First_Name>
+      <Last_Name xmlns="Student">Kowalski315</Last_Name>
+      <Email xmlns="Student">315@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4782</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Maciej</First_Name>
+      <Last_Name xmlns="Student">Kowalski315</Last_Name>
+      <Email xmlns="Student">315@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4782</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka Społeczna" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak316</Last_Name>
+      <Email xmlns="Student">316@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4492</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz317</Last_Name>
+      <Email xmlns="Student">317@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4531</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marcin</First_Name>
+      <Last_Name xmlns="Student">Maciejewski318</Last_Name>
+      <Email xmlns="Student">318@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4406</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Jankowski319</Last_Name>
+      <Email xmlns="Student">319@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4394</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski320</Last_Name>
+      <Email xmlns="Student">320@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4627</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe magisterskie" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Kowalski320</Last_Name>
+      <Email xmlns="Student">320@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4627</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Nowak321</Last_Name>
+      <Email xmlns="Student">321@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4830</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Nowak321</Last_Name>
+      <Email xmlns="Student">321@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4830</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz322</Last_Name>
+      <Email xmlns="Student">322@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4486</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mariusz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski323</Last_Name>
+      <Email xmlns="Student">323@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4447</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mariusz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski323</Last_Name>
+      <Email xmlns="Student">323@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4447</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Jankowski324</Last_Name>
+      <Email xmlns="Student">324@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4580</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Jankowski324</Last_Name>
+      <Email xmlns="Student">324@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4580</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Kowalski325</Last_Name>
+      <Email xmlns="Student">325@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4284</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Kowalski325</Last_Name>
+      <Email xmlns="Student">325@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4284</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Sztuka Nowych Mediów zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak326</Last_Name>
+      <Email xmlns="Student">326@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4440</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak326</Last_Name>
+      <Email xmlns="Student">326@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4440</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksander</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz327</Last_Name>
+      <Email xmlns="Student">327@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4410</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Andrzej</First_Name>
+      <Last_Name xmlns="Student">Maciejewski328</Last_Name>
+      <Email xmlns="Student">328@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4615</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Jankowski329</Last_Name>
+      <Email xmlns="Student">329@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4796</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Jankowski329</Last_Name>
+      <Email xmlns="Student">329@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4796</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Kowalski330</Last_Name>
+      <Email xmlns="Student">330@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4458</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Nakul</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz332</Last_Name>
+      <Email xmlns="Student">332@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4942</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Nakul</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz332</Last_Name>
+      <Email xmlns="Student">332@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4942</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomoto</First_Name>
+      <Last_Name xmlns="Student">Maciejewski333</Last_Name>
+      <Email xmlns="Student">333@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4614</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomoto</First_Name>
+      <Last_Name xmlns="Student">Maciejewski333</Last_Name>
+      <Email xmlns="Student">333@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4614</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Krzysztof</First_Name>
+      <Last_Name xmlns="Student">Jankowski334</Last_Name>
+      <Email xmlns="Student">334@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4822</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Kowalski335</Last_Name>
+      <Email xmlns="Student">335@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4433</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Kowalski335</Last_Name>
+      <Email xmlns="Student">335@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4433</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Nowak336</Last_Name>
+      <Email xmlns="Student">336@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4557</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Gabriel</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz337</Last_Name>
+      <Email xmlns="Student">337@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4599</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Maciejewski338</Last_Name>
+      <Email xmlns="Student">338@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4419</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Maciejewski338</Last_Name>
+      <Email xmlns="Student">338@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4419</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Maciejewski338</Last_Name>
+      <Email xmlns="Student">338@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4419</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka doktoranckie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Jankowski339</Last_Name>
+      <Email xmlns="Student">339@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4828</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Kacper</First_Name>
+      <Last_Name xmlns="Student">Kowalski340</Last_Name>
+      <Email xmlns="Student">340@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4460</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Nowak341</Last_Name>
+      <Email xmlns="Student">341@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4058</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Nowak341</Last_Name>
+      <Email xmlns="Student">341@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4058</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka wieczorowe" xmlns="Student">
+        <Studies_Mode>Wieczorowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz342</Last_Name>
+      <Email xmlns="Student">342@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4524</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz342</Last_Name>
+      <Email xmlns="Student">342@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4524</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Katarzyna</First_Name>
+      <Last_Name xmlns="Student">Maciejewski343</Last_Name>
+      <Email xmlns="Student">343@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4588</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Jankowski344</Last_Name>
+      <Email xmlns="Student">344@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4743</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karol</First_Name>
+      <Last_Name xmlns="Student">Kowalski345</Last_Name>
+      <Email xmlns="Student">345@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4721</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Radosław</First_Name>
+      <Last_Name xmlns="Student">Nowak346</Last_Name>
+      <Email xmlns="Student">346@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4544</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Marco</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz347</Last_Name>
+      <Email xmlns="Student">347@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4426</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jagoda</First_Name>
+      <Last_Name xmlns="Student">Maciejewski348</Last_Name>
+      <Email xmlns="Student">348@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4532</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jagoda</First_Name>
+      <Last_Name xmlns="Student">Maciejewski348</Last_Name>
+      <Email xmlns="Student">348@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4532</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Jankowski349</Last_Name>
+      <Email xmlns="Student">349@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4480</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Jankowski349</Last_Name>
+      <Email xmlns="Student">349@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4480</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Przemysław</First_Name>
+      <Last_Name xmlns="Student">Kowalski350</Last_Name>
+      <Email xmlns="Student">350@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4441</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak351</Last_Name>
+      <Email xmlns="Student">351@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4523</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Nowak351</Last_Name>
+      <Email xmlns="Student">351@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4523</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz352</Last_Name>
+      <Email xmlns="Student">352@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4766</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Bartosz</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz352</Last_Name>
+      <Email xmlns="Student">352@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4766</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Achut</First_Name>
+      <Last_Name xmlns="Student">Maciejewski353</Last_Name>
+      <Email xmlns="Student">353@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4941</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Aleksander</First_Name>
+      <Last_Name xmlns="Student">Jankowski354</Last_Name>
+      <Email xmlns="Student">354@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4647</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jan</First_Name>
+      <Last_Name xmlns="Student">Kowalski355</Last_Name>
+      <Email xmlns="Student">355@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4500</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Yuriy</First_Name>
+      <Last_Name xmlns="Student">Nowak356</Last_Name>
+      <Email xmlns="Student">356@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4422</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Yuriy</First_Name>
+      <Last_Name xmlns="Student">Nowak356</Last_Name>
+      <Email xmlns="Student">356@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4422</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz357</Last_Name>
+      <Email xmlns="Student">357@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4660</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz357</Last_Name>
+      <Email xmlns="Student">357@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4660</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Maciejewski358</Last_Name>
+      <Email xmlns="Student">358@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4521</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Jankowski359</Last_Name>
+      <Email xmlns="Student">359@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4585</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mikołaj</First_Name>
+      <Last_Name xmlns="Student">Kowalski360</Last_Name>
+      <Email xmlns="Student">360@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">3081</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mikołaj</First_Name>
+      <Last_Name xmlns="Student">Kowalski360</Last_Name>
+      <Email xmlns="Student">360@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">3081</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka jednolite magisterskie" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Mikołaj</First_Name>
+      <Last_Name xmlns="Student">Kowalski360</Last_Name>
+      <Email xmlns="Student">360@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">3081</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka jednolite magisterskie po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Dariusz</First_Name>
+      <Last_Name xmlns="Student">Nowak361</Last_Name>
+      <Email xmlns="Student">361@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4710</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Anna</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz362</Last_Name>
+      <Email xmlns="Student">362@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4385</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Anna</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz362</Last_Name>
+      <Email xmlns="Student">362@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4385</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Piotr</First_Name>
+      <Last_Name xmlns="Student">Maciejewski363</Last_Name>
+      <Email xmlns="Student">363@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4529</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Jankowski364</Last_Name>
+      <Email xmlns="Student">364@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4522</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Jankowski364</Last_Name>
+      <Email xmlns="Student">364@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4522</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Dawid</First_Name>
+      <Last_Name xmlns="Student">Kowalski365</Last_Name>
+      <Email xmlns="Student">365@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4827</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karol</First_Name>
+      <Last_Name xmlns="Student">Nowak366</Last_Name>
+      <Email xmlns="Student">366@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4518</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Karol</First_Name>
+      <Last_Name xmlns="Student">Nowak366</Last_Name>
+      <Email xmlns="Student">366@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4518</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz367</Last_Name>
+      <Email xmlns="Student">367@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4384</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz367</Last_Name>
+      <Email xmlns="Student">367@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4384</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz367</Last_Name>
+      <Email xmlns="Student">367@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4384</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Łukasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski368</Last_Name>
+      <Email xmlns="Student">368@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4496</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Łukasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski368</Last_Name>
+      <Email xmlns="Student">368@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4496</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka Społeczna" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Jankowski369</Last_Name>
+      <Email xmlns="Student">369@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4750</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Jankowski369</Last_Name>
+      <Email xmlns="Student">369@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4750</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Jankowski369</Last_Name>
+      <Email xmlns="Student">369@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4750</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka internetowe" xmlns="Student">
+        <Studies_Mode>Internetowe</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Arkadiusz</First_Name>
+      <Last_Name xmlns="Student">Kowalski370</Last_Name>
+      <Email xmlns="Student">370@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4111</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Jakub</First_Name>
+      <Last_Name xmlns="Student">Nowak371</Last_Name>
+      <Email xmlns="Student">371@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4484</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz372</Last_Name>
+      <Email xmlns="Student">372@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4483</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Michał</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz372</Last_Name>
+      <Email xmlns="Student">372@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4483</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski373</Last_Name>
+      <Email xmlns="Student">373@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4751</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski373</Last_Name>
+      <Email xmlns="Student">373@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4751</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Tomasz</First_Name>
+      <Last_Name xmlns="Student">Maciejewski373</Last_Name>
+      <Email xmlns="Student">373@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4751</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="MBA dla branży IT" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Radosław</First_Name>
+      <Last_Name xmlns="Student">Jankowski374</Last_Name>
+      <Email xmlns="Student">374@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4528</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Radosław</First_Name>
+      <Last_Name xmlns="Student">Jankowski374</Last_Name>
+      <Email xmlns="Student">374@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4528</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Paweł</First_Name>
+      <Last_Name xmlns="Student">Kowalski375</Last_Name>
+      <Email xmlns="Student">375@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4533</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Przemysław</First_Name>
+      <Last_Name xmlns="Student">Nowak376</Last_Name>
+      <Email xmlns="Student">376@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4814</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Przemysław</First_Name>
+      <Last_Name xmlns="Student">Nowak376</Last_Name>
+      <Email xmlns="Student">376@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4814</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka zaoczne" xmlns="Student">
+        <Studies_Mode>Zaoczne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adam</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz377</Last_Name>
+      <Email xmlns="Student">377@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4753</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Dawid</First_Name>
+      <Last_Name xmlns="Student">Maciejewski378</Last_Name>
+      <Email xmlns="Student">378@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4520</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Adrian</First_Name>
+      <Last_Name xmlns="Student">Jankowski379</Last_Name>
+      <Email xmlns="Student">379@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4837</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Sławomir</First_Name>
+      <Last_Name xmlns="Student">Kowalski380</Last_Name>
+      <Email xmlns="Student">380@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4611</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Rafał</First_Name>
+      <Last_Name xmlns="Student">Nowak381</Last_Name>
+      <Email xmlns="Student">381@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4616</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Rafał</First_Name>
+      <Last_Name xmlns="Student">Nowak381</Last_Name>
+      <Email xmlns="Student">381@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4616</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka magisterskie 3 sem" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+    <Student>
+      <First_Name xmlns="Student">Agnieszka</First_Name>
+      <Last_Name xmlns="Student">Brzęczyszczykiewicz382</Last_Name>
+      <Email xmlns="Student">382@pjwstk.edu.pl</Email>
+      <Index xmlns="Student">4603</Index>
+      <Birth_Date xmlns="Student">2000-02-12</Birth_Date>
+      <Mother_Name xmlns="Student">Alina</Mother_Name>
+      <Father_Name xmlns="Student">Adam</Father_Name>
+      <Studies_Info Studies_Name="Informatyka dzienne po angielsku" xmlns="Student">
+        <Studies_Mode>Dzienne</Studies_Mode>
+      </Studies_Info>
+    </Student>
+  </Students>
+  <Created_At>2020-11-08</Created_At>
+  <Active_Studies />
+</University>
